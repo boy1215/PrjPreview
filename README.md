@@ -1,2 +1,2 @@
 # PrjPreview
-.prj file viewer
+custom .prj file viewer
